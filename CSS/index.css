@@ -1,0 +1,39 @@
+#bill-pic{
+ height: 45em;
+ width: auto;
+display: block;
+padding-left: 5em;
+padding-top: 5em;
+    margin-right: auto;
+   overflow: hidden;
+}
+
+   .navbar {
+   	  background-color: #151B54;
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+	  background-color: #151B54;
+      padding: 25px;
+      width: 100%;
+    }
+
+input[type=text] {
+    padding: 5px 20px;
+    margin: 8px 0;
+} 
+
+  span a{
+    text-decoration: none;
+    color: black;
+    }
+    
+    
+     span a:hover{
+    text-decoration: none;
+    color: black;
+    }
+   
